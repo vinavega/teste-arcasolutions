@@ -32,8 +32,8 @@ Onde "robot" é o comando que chama o framework, "-d log/" estamos setando onde 
 
 ## Observação
 
-A página utlizada para o teste encontra-se com um CAPTCHA, diferentemente da foto mostrada no documento.
-Com isso não é possível automatizar completamente a página, para contornar o problema deixei um delay de 10 segundos após preencher os campos para que se insira os dados do CAPTCHA automaticamente, é só preencher e aguardar a automação voltar a executar para que o teste termine.
+A página utilizada para o teste encontra-se com um CAPTCHA, diferentemente da foto mostrada no documento.
+Com isso não é possível automatizar completamente, para contornar o problema deixei um delay de 10 segundos após preencher os campos para que se insira os dados do CAPTCHA manualmente, é só preencher e aguardar a automação voltar a executar para que o teste termine de executar.
 
 ## Consultando os logs
 
