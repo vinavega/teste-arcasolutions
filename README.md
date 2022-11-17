@@ -1,6 +1,6 @@
 # Teste para processo seletivo
 
-Automação de um cadastro de usuário feito utilizando RobotFramework para o processo seletivo da empresa Arca Solutions.
+Automação de um cadastro de usuário feito utilizando RobotFramework para o processo seletivo.
 
 ### Pré-requisitos
 
